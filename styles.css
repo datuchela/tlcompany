@@ -32,7 +32,7 @@ h1 {
 }
 
 .under-work {
-  width: 70%;
+  width: 90%;
 }
 
 .contact-wrapper {
@@ -90,5 +90,9 @@ img {
   }
   img {
     width: 28px;
+  }
+
+  .contact-text {
+    font-size: 1.2rem;
   }
 }
