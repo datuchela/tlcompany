@@ -76,6 +76,16 @@ img {
   }
 }
 
+@media (min-width: 1920px) {
+  html {
+    font-size: 30px;
+  }
+  .illustration {
+    width: 800px;
+    height: 550px;
+  }
+}
+
 @media (max-width: 780px) {
   html {
     font-size: 12px;
